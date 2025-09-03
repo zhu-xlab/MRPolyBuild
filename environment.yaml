@@ -228,9 +228,10 @@ dependencies:
       - mat4py==0.6.0
       - matplotlib==3.9.0
       - mdurl==0.1.2
-      - mmcv==2.2.0
+      - mmcv==2.1.0
       - mmengine==0.10.7
       - mmpretrain==1.2.0
+      - mmsegmentation==1.2.2
       - model-index==0.1.11
       - modelindex==0.0.2
       - msgpack==1.1.1

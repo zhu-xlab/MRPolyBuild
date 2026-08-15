@@ -5,7 +5,7 @@ _base_ = [
 
 custom_imports = dict(
     imports=['mmpretrain.models'], allow_failed_imports=False)
-load_from = 'work_dirs/gcp_ins-v2_8x_right-ang-v2_seg-based-det_convnext-v2-b_320k_planet_basemap_global/iter_320000.pth'
+load_from = 'checkpoints/gcp_ins-v2_8x_right-ang-v2_seg-based-det_convnext-v2-b_320k_planet_basemap_global/iter_320000.pth'
 
 model = dict(
     type='SegBasedDetector',

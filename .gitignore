@@ -103,8 +103,8 @@ venv.bak/
 
 # mypy
 .mypy_cache/
-data/
-data
+/data/
+/data
 .vscode
 .idea
 .DS_Store
@@ -125,3 +125,14 @@ work_dirs/
 outputs/
 yilei_website/
 wandb
+
+# Local experiments / temporary files (not part of the public release)
+configs/local/
+configs/comparison/
+scripts/
+demo/raw/
+demo/eval_smoke/
+demo/tmp_download/
+demo/data/*.tif
+demo/make_vis*.py
+demo/crop_demo*.py

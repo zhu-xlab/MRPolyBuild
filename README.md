@@ -12,7 +12,8 @@ Official repository for paper "Rethinking Resolution: Large-Scale Polygonal Buil
 
 ## Downloads
 
-All released assets are hosted in the [MRPolyBuild Google Drive folder](https://drive.google.com/drive/folders/1Btc_uM3l4dfyrUOOH2NHv62Sejkkvwhj).
+All released assets are hosted in the [MRPolyBuild Google Drive folder](https://drive.google.com/drive/folders/1pZo8_0TA7GXe6WFjPjHhZfJtIuJ_Xjp2?usp=sharing).
+
 Checksums of every file are provided in `SHA256SUMS.txt` at the folder root.
 
 ### Annotations (satellite imagery is **not** redistributed)
@@ -66,7 +67,7 @@ The satellite images used in this work are from PlanetScope company, which are c
 
 ### Download
 
-Download the annotation files from the [Drive folder](https://drive.google.com/drive/folders/1Btc_uM3l4dfyrUOOH2NHv62Sejkkvwhj) (or use the per-file links above) and extract them:
+Download the annotation files from the [Drive folder](https://drive.google.com/drive/folders/1pZo8_0TA7GXe6WFjPjHhZfJtIuJ_Xjp2?usp=sharing) (or use the per-file links above) and extract them:
 
 ```
 mkdir -p data
